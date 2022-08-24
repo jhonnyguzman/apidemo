@@ -1,0 +1,19 @@
+{
+    "productos": [{
+            "nombre": "Producto 1",
+            "descripcion": "Descripcion producto 1",
+            "precio": "200.00",
+            "stick": 1,
+            "img": "https://cdn.pixabay.com/photo/2014/04/10/11/06/tomatoes-320860_1280.jpg",
+            "tags": ["tag 1", "tag 2", "tag 3"]
+        },
+        {
+            "nombre": "Producto 2",
+            "descripcion": "Descripcion producto 2",
+            "precio": "300.00",
+            "stick": 3,
+            "img": "https://cdn.pixabay.com/photo/2017/02/02/14/04/grapes-2032838_1280.jpg",
+            "tags": ["tag 2.1", "tag 2.2", "tag 2.3"]
+        }
+    ]
+}
