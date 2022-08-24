@@ -1,5 +1,6 @@
 {
     "productos": [{
+            "id": 1,
             "nombre": "Producto 1",
             "descripcion": "Descripcion producto 1",
             "precio": "200.00",
@@ -8,6 +9,7 @@
             "tags": ["tag 1", "tag 2", "tag 3"]
         },
         {
+            "id": 2,
             "nombre": "Producto 2",
             "descripcion": "Descripcion producto 2",
             "precio": "300.00",
