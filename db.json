@@ -7,7 +7,7 @@
             "stick": 90,
             "img": "https://www.zonanegativa.com/imagenes/2022/01/amazing-spider-man-2022-john-romita-jr-600x907.jpg",
             "tags": [
-                "Spider",
+                "Marvel",
                 "Comic",
                 "Superheroe"
             ]
@@ -20,7 +20,7 @@
             "stick": 50,
             "img": "https://www.ecccomics.com/content/productos/5265/superman_80.jpg",
             "tags": [
-                "Super",
+                "DC",
                 "Comic",
                 "Superheroe"
             ]
@@ -33,7 +33,7 @@
             "stick": 40,
             "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/b0/2b/b02b8436ec7bb1e24d5fc49a2c1539cf.jpg",
             "tags": [
-                "Iron",
+                "Marvel",
                 "Comic",
                 "Superheroe"
             ]
@@ -48,7 +48,7 @@
             "tags": [
                 "Capitan",
                 "Comic",
-                "Soldado"
+                "Marvel"
             ]
         },
         {
@@ -61,7 +61,74 @@
             "tags": [
                 "Hulk",
                 "Comic",
-                "Hombre verde"
+                "Marvel"
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "Sailor Moon 15 cms",
+            "descripcion": "Figura de acción Bandai. Incluye accesorios.​",
+            "precio": "9800.00",
+            "stick": 9,
+            "img": "https://m.media-amazon.com/images/I/71P9UYzXgwL._AC_SY450_.jpg",
+            "tags": [
+                "Sailor Moon",
+                "Action Figure",
+                "Figura de Acción",
+                "Bandai"
+            ]
+        },
+        {
+            "id": 7,
+            "nombre": "Plushie Cubone",
+            "descripcion": "Peluche miniatura Cubone​",
+            "precio": "4600.00",
+            "stick": 5,
+            "img": "https://m.media-amazon.com/images/I/71P9UYzXgwL._AC_SY450_.jpg",
+            "tags": [
+                "Pokemon",
+                "plushie",
+                "Peluche"
+            ]
+        },
+        {
+            "id": 8,
+            "nombre": "Batman Killing Joke",
+            "descripcion": "Guión: Allan Moore; Dibujo: Brian Bolland",
+            "precio": "4600.00",
+            "stick": 15,
+            "img": "https://pm1.narvii.com/6191/aaedff300fa50bc0e9a434eb9adc7e6003442585_hq.jpg",
+            "tags": [
+                "Batman",
+                "DC",
+                "The Joker"
+            ]
+        },
+        {
+            "id": 9,
+            "nombre": "Mjolnir LEGO",
+            "descripcion": "Martillo Mjolnir de LEGO",
+            "precio": "12000.00",
+            "stick": 4,
+            "img": "https://www.tomshw.it/images/images/2022/02/lego-marvel-martello-di-thor-211911.proplarge.jpg",
+            "tags": [
+                "Marvel",
+                "Thor",
+                "Juguete"
+            ]
+        },
+        {
+            "id": 10,
+            "nombre": "Poster She Hulk",
+            "descripcion": "Poster oficial serializado She Hulk",
+            "precio": "7000.00",
+            "stick": 8,
+            "img": "https://dam.smashmexico.com.mx/wp-content/uploads/2022/06/she-hulk-imagenes-artes-poster-3.jpg",
+            "tags": [
+                "Marvel",
+                "Hul",
+                "She Hulk",
+                "poster"
             ]
         }
     ]
