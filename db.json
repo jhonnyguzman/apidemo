@@ -1,21 +1,68 @@
 {
     "productos": [{
             "id": 1,
-            "nombre": "Producto 1",
-            "descripcion": "Descripcion producto 1",
-            "precio": "200.00",
-            "stick": 1,
-            "img": "https://cdn.pixabay.com/photo/2014/04/10/11/06/tomatoes-320860_1280.jpg",
-            "tags": ["tag 1", "tag 2", "tag 3"]
+            "nombre": "Spiderman",
+            "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña,​​ es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,​​ e introducido en el cómic Amazing Fantasy n.° 15, publicado por Marvel Comics en agosto de 1962.​",
+            "precio": "780.00",
+            "stick": 90,
+            "img": "https://www.zonanegativa.com/imagenes/2022/01/amazing-spider-man-2022-john-romita-jr-600x907.jpg",
+            "tags": [
+                "Spider",
+                "Comic",
+                "Superheroe"
+            ]
         },
         {
             "id": 2,
-            "nombre": "Producto 2",
-            "descripcion": "Descripcion producto 2",
-            "precio": "300.00",
-            "stick": 3,
-            "img": "https://cdn.pixabay.com/photo/2017/02/02/14/04/grapes-2032838_1280.jpg",
-            "tags": ["tag 2.1", "tag 2.2", "tag 2.3"]
+            "nombre": "Superman",
+            "descripcion": "Bajo la identidad de Clark Kent, Superman vive en medio de los humanos como un «tímido reportero» del diario Daily Planet de Metrópolis. Ahí trabaja junto a la reportera Lois Lane, con la cual ha sido vinculado románticamente. Junto con el fotógrafo Jimmy Olsen y el editor en jefe Perry White.​",
+            "precio": "530.00",
+            "stick": 50,
+            "img": "https://www.ecccomics.com/content/productos/5265/superman_80.jpg",
+            "tags": [
+                "Super",
+                "Comic",
+                "Superheroe"
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Ironman",
+            "descripcion": "Anthony Edward Stark, más conocido como Tony Stark, es un personaje ficticio que da vida a este personaje, un multimillonario magnate empresarial y filántropo estadounidense, playboy e ingenioso científico, que sufrió una grave lesión en el pecho durante un secuestro en el Medio Oriente.​",
+            "precio": "922.00",
+            "stick": 40,
+            "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/b0/2b/b02b8436ec7bb1e24d5fc49a2c1539cf.jpg",
+            "tags": [
+                "Iron",
+                "Comic",
+                "Superheroe"
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Capitan America",
+            "descripcion": "El Capitán América fue diseñado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial, y fue el personaje más popular de Timely Comics durante el período de guerra.​",
+            "precio": "922.00",
+            "stick": 200,
+            "img": "https://imagenes.heraldo.es/files/image_654_v1/uploads/imagenes/2018/11/12/_20MARCHIVO30499280_b08f782d.jpg",
+            "tags": [
+                "Capitan",
+                "Comic",
+                "Soldado"
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Hulk",
+            "descripcion": "En sus apariciones de cómic, el personaje es a la vez Hulk, un ser humanoide enorme de piel verde, corpulento y musculoso que posee una gran fortaleza física.​",
+            "precio": "462.00",
+            "stick": 120,
+            "img": "https://starsmydestination.files.wordpress.com/2020/11/el-increible-hulk-100-cover-starsmydestination.jpg",
+            "tags": [
+                "Hulk",
+                "Comic",
+                "Hombre verde"
+            ]
         }
     ]
 }
